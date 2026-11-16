@@ -1,0 +1,55 @@
+
+PERSONAL MINI-TOOLKIT PROJECT PLAN
+
+Project Name: Personal Mini-Toolkit
+
+Purpose:
+To create a menu-driven Python program that provides useful tools
+for everyday calculations and list management.
+
+Tools:
+1. Even or Odd Checker
+   - Ask the user for a number.
+   - Determine whether the number is even or odd.
+   - Display the result.
+
+2. Simple Calculator
+   - Ask the user to enter two numbers.
+   - Allow addition, subtraction, multiplication, and division.
+   - Use conditionals to select the operation.
+   - Prevent division by zero.
+
+3. Number List Manager
+   - Allow the user to add numbers to a list.
+   - Display all numbers in the list using a loop.
+   - Calculate the total of the numbers.
+   - Allow the user to remove numbers.
+   - Keep the list updated while the program runs.
+
+Program Structure:
+- Display a welcome message.
+- Show a numbered menu.
+- Use a while loop to keep the menu running.
+- Use if, elif, and else to handle choices.
+- Handle invalid menu choices politely.
+- Exit when the user selects Quit.
+- Display a friendly goodbye message.
+
+Python Concepts:
+- Variables
+- Input and output
+- Type conversion
+- If, elif, else
+- While loops
+- For loops
+- Lists
+- Functions
+- Exception handling
+- F-strings
+
+Testing Plan:
+- Test every tool.
+- Test invalid menu choices.
+- Test division by zero.
+- Test adding and removing list items.
+- Test quitting the program.
